@@ -1,4 +1,8 @@
-# Hemkraft Demo
+# Household Appliance Survey
+
+The Household Appliance Survey is a web application designed to collect information about household appliances. Users can submit details about appliance types, brands, and usage habits, contributing to data that can support market research, trend analysis, or consumer studies. The project emphasizes intuitive user input and efficient data collection, with potential backend support for storing and processing survey results.
+
+## Demo
 
 - Start at MainMenu.php
 
