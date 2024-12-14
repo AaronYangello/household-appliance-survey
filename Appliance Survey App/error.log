@@ -1,0 +1,217 @@
+[17-Nov-2022 19:30:43 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:30:47 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:30:52 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:31:20 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:31:26 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:31:29 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:31:41 America/Los_Angeles] PHP Warning:  Array to string conversion in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 40
+[17-Nov-2022 19:32:50 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:30 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:36 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:41 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:44 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:52 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 19:33:56 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:33:56 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:30 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:30 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:36 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:36 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:40 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:40 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:43 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:43 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:49 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:35:49 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:36:02 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:36:02 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:40:08 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:40:08 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:41:15 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:41:15 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 7
+[17-Nov-2022 19:43:11 America/Los_Angeles] PHP Warning:  Undefined variable $enteredEmail in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_email_address.php on line 46
+[17-Nov-2022 20:48:15 America/Los_Angeles] PHP Warning:  Undefined array key "is-modal" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 7
+[17-Nov-2022 20:48:15 America/Los_Angeles] PHP Warning:  Undefined array key "is-modal" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 30
+[17-Nov-2022 20:48:15 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:48:15 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:48:15 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:48:55 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:48:55 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:48:55 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:49:17 America/Los_Angeles] PHP Warning:  Undefined array key "email" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 8
+[17-Nov-2022 20:49:17 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 8
+[17-Nov-2022 20:49:17 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:49:17 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 75
+[17-Nov-2022 20:50:16 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:50:16 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:50:39 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:50:39 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:53:58 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 20:53:58 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:53:58 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:54:02 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:54:02 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:54:11 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 20:54:11 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:01:50 America/Los_Angeles] PHP Warning:  Undefined array key "postal-code" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 9
+[17-Nov-2022 21:01:50 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 9
+[17-Nov-2022 21:01:50 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:01:50 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:06 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 72
+[17-Nov-2022 21:02:06 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:06 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:06 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 80
+[17-Nov-2022 21:02:25 America/Los_Angeles] PHP Warning:  Undefined array key "postal-code" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 9
+[17-Nov-2022 21:02:25 America/Los_Angeles] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 9
+[17-Nov-2022 21:02:25 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:25 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:50 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 72
+[17-Nov-2022 21:02:50 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:50 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:50 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 80
+[17-Nov-2022 21:02:59 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 72
+[17-Nov-2022 21:02:59 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:59 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:02:59 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 80
+[17-Nov-2022 21:03:48 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:03:48 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:03:48 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:03:48 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 81
+[17-Nov-2022 21:04:51 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:04:51 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:04:51 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:04:51 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 81
+[17-Nov-2022 21:05:06 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 73
+[17-Nov-2022 21:05:06 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:05:06 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 74
+[17-Nov-2022 21:05:06 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 81
+[17-Nov-2022 21:07:35 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 81
+[17-Nov-2022 21:07:35 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 84
+[17-Nov-2022 21:07:35 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 84
+[17-Nov-2022 21:07:35 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 92
+[17-Nov-2022 21:08:58 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 79
+[17-Nov-2022 21:08:58 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 82
+[17-Nov-2022 21:08:58 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 82
+[17-Nov-2022 21:08:58 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 90
+[17-Nov-2022 21:23:36 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT State, LoadingType, ROW_NUMBER() OVER(PARTITION BY State ORDER BY Load...' at line 1 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php:34
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php(34): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 34
+[17-Nov-2022 21:25:06 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT State, LoadingType, ROW_NUMBER() OVER(PARTITION BY State ORDER BY Load...' at line 1 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php:34
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php(34): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 34
+[17-Nov-2022 21:25:34 America/Los_Angeles] PHP Warning:  Undefined variable $result in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 65
+[17-Nov-2022 21:25:34 America/Los_Angeles] PHP Warning:  foreach() argument must be of type array|object, null given in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 65
+[17-Nov-2022 21:25:34 America/Los_Angeles] PHP Warning:  Undefined variable $result2 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 87
+[17-Nov-2022 21:25:34 America/Los_Angeles] PHP Warning:  foreach() argument must be of type array|object, null given in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 87
+[17-Nov-2022 21:27:14 America/Los_Angeles] PHP Warning:  Undefined variable $result2 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 87
+[17-Nov-2022 21:27:14 America/Los_Angeles] PHP Warning:  foreach() argument must be of type array|object, null given in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\generate_laundry_report.php on line 87
+[19-Nov-2022 14:42:20 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 79
+[19-Nov-2022 14:42:20 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 82
+[19-Nov-2022 14:42:20 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 82
+[19-Nov-2022 14:42:20 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 90
+[19-Nov-2022 14:50:18 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY OnlyWasherCount DESC' at line 1 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\laundry_report.php:50
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\laundry_report.php(50): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\laundry_report.php on line 50
+[20-Nov-2022 15:07:35 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php:37
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\search_radius_averages.php(15): debug_to_console()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php on line 37
+[20-Nov-2022 15:09:04 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php:37
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\search_radius_averages.php(15): debug_to_console()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php on line 37
+[20-Nov-2022 15:11:05 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php:37
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\search_radius_averages.php(15): debug_to_console()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\lib\functions.php on line 37
+[28-Nov-2022 17:48:40 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 17:48:40 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:48:40 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:48:40 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 17:51:19 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:51:19 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:52:31 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 17:52:31 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:52:31 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 17:52:31 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 18:05:59 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 18:05:59 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:05:59 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:05:59 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 18:06:03 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:03 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:11 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:11 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:30 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 18:06:30 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:30 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 18:06:30 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 18:21:36 America/Los_Angeles] PHP Warning:  Undefined array key "PrimaryAvailCheck" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_fullbathinfo.php on line 19
+[28-Nov-2022 18:30:12 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 18:33:46 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 18:33:46 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 197
+[28-Nov-2022 18:33:46 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 203
+[28-Nov-2022 18:35:43 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 77
+[28-Nov-2022 18:37:04 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 77
+[28-Nov-2022 18:37:04 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php:78) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 152
+[28-Nov-2022 18:37:44 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Dryer.php on line 76
+[28-Nov-2022 18:38:28 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Dryer.php on line 76
+[28-Nov-2022 18:38:28 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Dryer.php:77) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Dryer.php on line 176
+[28-Nov-2022 18:39:13 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php on line 121
+[28-Nov-2022 18:41:57 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php on line 121
+[28-Nov-2022 18:41:57 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php:122) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php on line 308
+[28-Nov-2022 18:42:09 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php on line 121
+[28-Nov-2022 18:42:13 America/Los_Angeles] PHP Warning:  Undefined array key "Displaytype2" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\view_applianceinfo.php on line 115
+[28-Nov-2022 18:42:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\view_applianceinfo.php on line 115
+[28-Nov-2022 18:42:41 America/Los_Angeles] PHP Warning:  Undefined array key "Displaytype2" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php on line 82
+[28-Nov-2022 18:42:41 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php on line 82
+[28-Nov-2022 18:42:41 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'DisplayType' at row 1 in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php:83
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php(83): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php on line 83
+[28-Nov-2022 18:43:15 America/Los_Angeles] PHP Warning:  Undefined array key "Displaytype2" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\view_applianceinfo.php on line 115
+[28-Nov-2022 18:43:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\view_applianceinfo.php on line 115
+[28-Nov-2022 18:44:19 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'PBurdell@gatech.edu' for key 'PRIMARY' in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php:38
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php(38): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php on line 38
+[28-Nov-2022 20:05:36 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 20:05:36 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 20:05:36 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 20:05:36 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 20:08:00 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 85
+[28-Nov-2022 20:08:00 America/Los_Angeles] PHP Warning:  Undefined variable $city in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 20:08:00 America/Los_Angeles] PHP Warning:  Undefined variable $state in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 88
+[28-Nov-2022 20:08:00 America/Los_Angeles] PHP Warning:  Undefined variable $postal_code in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_postal_code.php on line 96
+[28-Nov-2022 20:26:18 America/Los_Angeles] PHP Warning:  Undefined array key "PrimaryAvailCheck" in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_fullbathinfo.php on line 19
+[28-Nov-2022 20:31:32 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 20:33:27 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 20:33:27 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 197
+[28-Nov-2022 20:33:27 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 203
+[28-Nov-2022 20:33:58 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 20:33:58 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 197
+[28-Nov-2022 20:33:58 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 203
+[28-Nov-2022 20:34:09 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 70
+[28-Nov-2022 20:34:09 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 197
+[28-Nov-2022 20:34:09 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php:71) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Cooker_both.php on line 203
+[28-Nov-2022 20:34:37 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 77
+[28-Nov-2022 20:36:35 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 77
+[28-Nov-2022 20:36:35 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php:78) in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Washer.php on line 152
+[28-Nov-2022 20:36:47 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_Dryer.php on line 76
+[28-Nov-2022 20:37:30 America/Los_Angeles] PHP Warning:  Undefined variable $count in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\enter_TV.php on line 121
+[01-Dec-2022 13:57:11 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'PBurdell@gatech.edu2' for key 'PRIMARY' in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php:38
+Stack trace:
+#0 K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php(38): mysqli_query()
+#1 {main}
+  thrown in K:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\team085\Phase_3\wrap_up.php on line 38
